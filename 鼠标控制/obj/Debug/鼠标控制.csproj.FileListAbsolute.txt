@@ -1,0 +1,8 @@
+C:\Users\Vic\source\repos\鼠标控制\鼠标控制\obj\Debug\鼠标控制.Form1.resources
+C:\Users\Vic\source\repos\鼠标控制\鼠标控制\obj\Debug\鼠标控制.Properties.Resources.resources
+C:\Users\Vic\source\repos\鼠标控制\鼠标控制\obj\Debug\鼠标控制.csproj.GenerateResource.cache
+C:\Users\Vic\source\repos\鼠标控制\鼠标控制\obj\Debug\鼠标控制.csproj.CoreCompileInputs.cache
+C:\Users\Vic\source\repos\鼠标控制\鼠标控制\bin\Debug\鼠标控制.exe
+C:\Users\Vic\source\repos\鼠标控制\鼠标控制\bin\Debug\鼠标控制.pdb
+C:\Users\Vic\source\repos\鼠标控制\鼠标控制\obj\Debug\鼠标控制.exe
+C:\Users\Vic\source\repos\鼠标控制\鼠标控制\obj\Debug\鼠标控制.pdb
