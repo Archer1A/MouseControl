@@ -6,3 +6,4 @@ C:\Users\Vic\source\repos\鼠标控制\鼠标控制\bin\Debug\鼠标控制.exe
 C:\Users\Vic\source\repos\鼠标控制\鼠标控制\bin\Debug\鼠标控制.pdb
 C:\Users\Vic\source\repos\鼠标控制\鼠标控制\obj\Debug\鼠标控制.exe
 C:\Users\Vic\source\repos\鼠标控制\鼠标控制\obj\Debug\鼠标控制.pdb
+C:\Users\Vic\source\repos\鼠标控制\鼠标控制\obj\Debug\鼠标控制.csprojAssemblyReference.cache
